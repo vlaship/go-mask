@@ -2,7 +2,7 @@
 
 [![GoDoc](https://godoc.org/github.com/vlaship/go-mask?status.svg)](https://godoc.org/github.com/vlaship/go-mask)
 [![Go Report Card](https://goreportcard.com/badge/github.com/vlaship/go-mask)](https://goreportcard.com/report/github.com/vlaship/go-mask)
-[![Build Status](https://github.com/vlaship/go-mask/workflows/build/badge.svg)](https://github.com/vlaship/go-mask/actions)
+[![Build Status](https://github.com/vlaship/go-mask/actions/workflows/go.yml/badge.svg)](https://github.com/vlaship/go-mask/actions)
 [![Coverage Status](https://coveralls.io/repos/github/vlaship/go-mask/badge.svg?branch=main)](https://coveralls.io/github/vlaship/go-mask?branch=main)
 
 ## Installation
