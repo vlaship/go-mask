@@ -10,7 +10,7 @@
 To install Go-Mask, you can use `go get`:
 
 ```bash
-go get github.com/vlaship/go-mask# go-mask
+go get github.com/vlaship/go-mask
 ```
 
 ## Usage
